@@ -1,0 +1,383 @@
+.banner{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("yoga\ 5.webp");
+    background-position: center;
+    background-size:cover;
+    margin: -20px;
+}
+.cass {
+    color: white;
+    transform: translate(0px, 245px);
+    text-align: center;
+  }
+  .cass h2{
+    margin: 0px auto;
+    font-size: 6.3vh;
+  }
+.fc1{
+    display: flex;
+    height: 100px;
+    align-items: center;
+}
+.fi1{
+    margin-right: 65%;
+}
+.au{
+    background-color: rgb(48, 44, 44);
+    height: 700px;
+    text-align: center;
+}
+.fi2{
+    border: 2px;
+    margin-right: 3%;
+}
+.h{
+    text-align: center;
+    height: 480px;
+    background-color: #a25454;
+    padding: 1px;
+}
+.fc1 a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.fc1 a:hover{
+    text-decoration: none;
+    color: blue;
+    text-transform: uppercase;
+    font-family: cursive;
+    text-shadow: 20px;
+}
+.fc3{
+    display: flex;
+    margin-right:10px;
+    justify-content: space-between;
+}
+.fc5{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.fi3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.fc5 img{
+    border-radius: 5%;
+}
+.cass p{
+    text-align: center;
+    font-size: 2.6vw;
+    font-family: sans-serif;
+    line-height: 1;
+    margin-left: 50px;
+}
+.reviews{
+    background-color: lightgreen;
+    height: 310px;
+    padding: 1px;
+}
+.reviews h2{
+    text-align: center;
+    margin-top: 42px;
+    font-size: 4vh;
+    padding-top: 4px;
+}
+.class{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 10px;
+}
+.class1 img{
+    height: 30px;
+    width: 30px;
+    border-radius:80px;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.class2 img{
+    height: 30px;
+    width: 30px;
+    border-radius:80px;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.class3 img{
+    height: 30px;
+    width: 30px;
+    border-radius:80px;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.class1{
+    width: 295px;
+    background-color: rgb(234, 154, 74);
+    height:180px;
+    color: white;
+    margin-left: 158px;
+}
+.class1 p{
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.class2 p{
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.class3 p{
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.class2{
+    width: 295px;
+    background-color: rgb(234, 154, 74);
+    height:180px;
+    color: white;
+    margin-right: 164px;
+    margin-left: 162px;
+}
+.class3{
+    width: 295px;
+    background-color: rgb(234, 154, 74);
+    height:180px;
+    color: white;
+    margin-right: 185px;
+}
+.cool{
+    padding-left: 13px;
+    border-radius: 0px;
+    width: 61px;
+    padding-top: 10px;
+}
+.for h5{
+    text-align: center;
+    font-size: 3vh;
+}
+.contain{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.contain1{
+  margin-left: 42px;
+}
+.contain2{
+  margin-left: 20px;
+}
+.contain4 h1{
+    margin-left: 235px;
+}
+.contain5 h1{
+    margin-right: 180px;
+}
+.about h1{
+    text-align: center;    
+    margin-top: 50px;
+}
+.about-text p{
+    text-align:justify;
+    margin-top: 50px;
+    font-size: 2.5vh;
+line-height: 1.5;
+font-family: sans-serif;
+}
+.form h2{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.container1 h2{
+    text-align: center;
+    transform: translate(6px,-330px);
+}
+.container1 p{
+    text-align: center;
+    transform: translate(6px,-330px);
+    line-height: 2.7;
+}
+.container2{
+    margin-top: -336px;
+}
+.container2 h2{
+     text-align: center;
+     transform: translate(6px,-330px);
+}
+.container2 p{
+    text-align: center;
+    transform: translate(6px,-330px);
+    line-height: 2.7;
+}
+.container3{
+    margin-top: -336px;
+}
+.container3 h2{
+    text-align: center;
+    transform: translate(6px,-330px);
+}
+.container3 p{
+    text-align: center;
+    transform: translate(6px,-330px);
+    line-height: 2.7;
+}
+.container4{
+    margin-top: -336px;
+}
+.container4 h2{
+    text-align: center;
+    transform: translate(6px,-330px);
+}
+.container4 p{
+    text-align: center;
+    transform: translate(6px,-330px);
+    line-height: 2.7;
+}
+.container5{
+    margin-top: -336px;
+}
+.container5 h2{
+    text-align: center;
+    transform: translate(6px,-330px);
+}
+.container5 p{
+    text-align: center;
+    transform: translate(6px,-330px);
+    line-height: 2.7;
+}
+.page {
+    height: 70vh;
+    width: 100%;
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.input_area {
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    border: 1px solid #7773;
+}
+.textarea-field {
+    height: 120px;
+    width: 400px;
+    padding-top: 10px;
+}
+.submit {
+   border-radius: 10px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #000000;
+    font-size: 17px;
+    cursor: pointer;
+    justify-content: center;
+}
+.bottom {
+    background-color: black;
+    width: 100%;
+    padding-top: 10px;
+    color: #dcdbdb;
+    text-align: center;
+}
+.par p{
+    font-size: 104%;
+}
+.e{
+    display: flex;
+    align-items: center;
+}
+.e img{
+    height: 200px;
+}
+.eno{
+    padding: 2.5%;
+    font-size: large;
+}
+.eimg{
+    width: 350px;
+}
+.econ{
+    width: 700px;
+    height: 200px;
+    margin-left: 4%;
+    font-size: 104%;
+    align-self: center;
+}
+.about2 h1{
+    text-align: center;
+}
+.dietimp p{
+    transform: translate(16px,-30px);
+}
+.plan1 h2{
+    transform: translate(-5px,-18px);
+}
+.pd1 p{
+    line-height: 2;
+}
+.plan2 h2{
+    transform: translate(0px,14px);
+}
+.pd2 p{
+    line-height: 2;
+}
+.pd3 p{
+    line-height: 2;
+}
+.pd4 p{
+    line-height: 2;
+}
+.pd5 p{
+    line-height: 2;
+}
+.water{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+td{
+    text-align: center;
+}
+.fire{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.k{
+    background-color: rgb(180, 42, 102);
+    height: 350px;
+    margin-top: -21px;
+}
+.k h1{
+    text-align: center;
+    padding-top:24px;
+}
+.lol{
+    background-color: #a25454;
+}
+.lol h1{
+    text-align: center;
+    padding: 3px;
+}
+form{
+    height: 100px;
+    width: 170px;
+    height: 404px;
+width: 482px;
+transform: translate(0px,-28px);
+}
