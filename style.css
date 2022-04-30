@@ -381,11 +381,11 @@ td{
     padding: 3px;
 }
 form{
-    height: 100px;
-    width: 170px;
-    height: 404px;
-width: 482px;
-transform: translate(0px,-28px);
+height: 119px;
+width: 189px;
+border: 2px solid black;
+padding: 7px;
+line-height: 1.9;
 }
 .main{
     display: flex;
