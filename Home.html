@@ -146,15 +146,14 @@
     </div>
 </div>
    <div class="page" id="pg">
-    <form>
+    <form method="POST" action="contact handler.php">
         <h2><u>CONTACT US</u></h2>
-        <input type="text" class="input_area" placeholder="Your Name"><br><br>
-        <input type="email" class="input_area" placeholder="Your Email"><br><br><br>
-        <textarea type="text" class="textarea-field" placeholder="Your Query"></textarea><br>
-        <button type="submit" class="submit">Submit</button><br><br>
+        <input type="text" class="input_area" name="name" placeholder="User Name"><br><br>
+        <input type="email" class="input_area" name="userName" placeholder="User Email"><br><br><br>
+        <textarea type="text" class="textarea-field" name="message" placeholder= "message"></textarea><br>
+        <button type="submit" class="submit" name="send">Submit</button><br><br>
     </form>
-</div>
-<div class="bottom">
+</div><div class="bottom">
     <p> Follow us on </p>
     <div class="social-menu">
         <a href="">
