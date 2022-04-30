@@ -33,7 +33,7 @@
 }
 .h{
     text-align: center;
-    height: 480px;
+    height: 505px;
     background-color: #a25454;
     padding: 1px;
 }
@@ -62,6 +62,7 @@
 .fi3{
     text-transform: uppercase;
     font-weight: bold;
+    margin-top: 5px;
 }
 .fc5 img{
     border-radius: 5%;
@@ -80,9 +81,8 @@
 }
 .reviews h2{
     text-align: center;
-    margin-top: 42px;
+    margin-top: 30px;
     font-size: 4vh;
-    padding-top: 4px;
 }
 .class{
     display: flex;
@@ -195,6 +195,7 @@ font-family: sans-serif;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    margin-left: 2.5%;
 }
 .container1 h2{
     text-align: center;
@@ -296,6 +297,8 @@ font-family: sans-serif;
 .e{
     display: flex;
     align-items: center;
+    justify-content: center;
+    margin-right: 5%;
 }
 .e img{
     height: 200px;
@@ -360,15 +363,18 @@ td{
 }
 .k{
     background-color: rgb(180, 42, 102);
-    height: 350px;
+    height: 550px;
     margin-top: -21px;
 }
 .k h1{
     text-align: center;
-    padding-top:24px;
+    padding-top:25px;
+    padding-bottom: 5px;
 }
 .lol{
     background-color: #a25454;
+    padding-top: 5px;
+    height: 350px;
 }
 .lol h1{
     text-align: center;
@@ -380,4 +386,11 @@ form{
     height: 404px;
 width: 482px;
 transform: translate(0px,-28px);
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+hr{
+    width: 50%;
 }
